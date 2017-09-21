@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("hello world");
 		System.out.println("hello git");
 		System.out.println("hello today");
+		System.out.println("hello remoteNet");
 	}
 
 }
